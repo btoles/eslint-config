@@ -1,6 +1,6 @@
 {
   "name": "@toles/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/btoles/eslint-config.git",
   "author": "btoles <brennan.toles@gmail.com>",
